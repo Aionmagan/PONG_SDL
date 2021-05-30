@@ -1,0 +1,4 @@
+-ID:\backup\code_stuff\General_development_files\SDL_Projects\PONG_SDL
+-IC:\SDL\SDL-1.2.15\include\SDL
+-target
+i686-pc-windows-gnu
